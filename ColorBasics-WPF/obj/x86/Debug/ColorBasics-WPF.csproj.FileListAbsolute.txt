@@ -1,0 +1,16 @@
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\bin\x86\Debug\ColorBasics-WPF.exe.config
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\bin\x86\Debug\ColorBasics-WPF.exe
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\bin\x86\Debug\ColorBasics-WPF.pdb
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\MainWindow.baml
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\App.g.cs
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF_MarkupCompile.cache
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF.g.resources
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF.csproj.GenerateResource.cache
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF.csproj.CoreCompileInputs.cache
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF.csproj.CopyComplete
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF.exe
+D:\homeworkOfNtust\多媒體實習\ColorBasics-WPF\obj\x86\Debug\ColorBasics-WPF.pdb

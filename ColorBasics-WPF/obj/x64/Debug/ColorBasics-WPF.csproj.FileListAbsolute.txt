@@ -1,0 +1,17 @@
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.cache
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.csproj.CopyComplete
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\a3265\Desktop\新增資料夾\ColorBasics-WPF\obj\x64\Debug\ColorBasics-WPF.csprojAssemblyReference.cache
